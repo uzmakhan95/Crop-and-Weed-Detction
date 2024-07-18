@@ -9,7 +9,7 @@ Each image is a 512 X 512 color image. Labels for images are in YOLO format. The
 
 Repository Contents
     notebook.ipynb: The Jupyter Notebook containing the code for crop and weed detection.
-    agri_data: Directory containing images and labels.
+    agri_data: Directory containing images and labels. (the google drive link)
     classes: Python file containing class definitions for the detection model.
 
 Prerequisites
