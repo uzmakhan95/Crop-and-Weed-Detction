@@ -7,26 +7,26 @@ Each image is a 512 X 512 color image. Labels for images are in YOLO format. The
     Report :  A report will be attached along in ATA format of the final stage of the project nearing it's completion.
 
 
-Repository Contents
-    notebook.ipynb: The Jupyter Notebook containing the code for crop and weed detection.
-    agri_data: Directory containing images and labels. (the google drive link)
-    classes: Python file containing class definitions for the detection model.
+Repository Contents:
+   1- notebook.ipynb: The Jupyter Notebook containing the code for crop and weed detection.
+   2-agri_data: Directory containing images and labels. (the google drive link)
+   3- classes: Python file containing class definitions for the detection model.
 
-Prerequisites
+Prerequisites: 
 Ensure you have the following installed:
-    Python 3.x
-    Jupyter Notebook
-    Required Python libraries 
+    -Python 3.x
+    -Jupyter Notebook
+    -Required Python libraries 
 
-Installation
+Installation: 
     1. Clone the repository
     2. Install the required libraries
     3. Create a flile to save the dataset and name it : agri_data
 
-Class Definitions
+Class Definitions: 
 The classes file contains the class definitions used in the project. Make sure this file is in the same directory as the notebook.
 
-Contributing
+Contributing: 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 License
