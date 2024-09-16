@@ -1,5 +1,5 @@
 # Crop-and-Weed-Detction
-We aim to develop a system that only sprays pesticides on weed and not on the crop which will reduce the mixing problem with crops and also reduce the waste of pesticides.
+The aim was to develop a system that only sprays pesticides on weed and not on the crop which will reduce the mixing problem with crops and also reduce the waste of pesticides.
 (This project was made under the guidance of the Edunet-UpSkill Data Science winter internship)
 Dataset Link : https://drive.google.com/file/d/1MNdDKYB0x0PEW7P71bE1Jx_uLllvORA0/view?usp=sharing 
 The data set is also uploaded along with the project file. This dataset contains 1300 images of sesame crops and different types of weeds with each image labels.
